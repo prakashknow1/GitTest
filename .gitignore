@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GitTest/config/applicationhost.config
+/.vs/GitTest/FileContentIndex
+/.vs/GitTest/v17
+/.vs
